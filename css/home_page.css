@@ -1,0 +1,226 @@
+
+h1{
+      color: red;
+      font-size: 20px;
+      font-weight: bold;
+      /* margin-top: 20px; */
+      word-spacing: 5px;
+      border-bottom: 2px solid red;
+    }
+  /* Thân Web */
+.font-weight-normal a{
+  color: red;
+  text-decoration: underline;
+}
+.font-weight-normal a i{
+  color: red;
+  font-size: 10px;
+}
+.font-weight-normal a:hover{
+  text-decoration: none;
+  color: red
+}
+.col-md-6 ul li a{
+      padding:10px;
+      margin:10px ;
+      line-height: 30px;
+      border:1px solid white;
+      border-radius: 5%;
+      color: white;
+
+    }
+.col-md-4 ul li img {
+  height: 200px;
+  width:100%
+}
+
+
+.col-md-2,.col-sm-12 h1{
+  text-align: center;
+}
+.col-sm-12 ul li{
+  margin:5px 0px;
+
+}
+.col-sm-12 ul li a{
+  border:1px solid rgb(170, 170, 170);
+  padding:5px
+}
+.col-sm-12 ul li a:hover{
+  background-color: white;
+  color: red
+}
+.col-md-2 ul li a {
+  border:0.5px solid gray;
+}
+.col-md-2 ul li{
+  display: flex;
+  justify-content: center;
+}
+.col-md-4 .border {
+  margin-top:0px;
+  margin-bottom: 10px;
+  border: none !important
+}
+.col-md-4 .border img:hover{
+  width:105% !important;
+  transition: all 0.5s;
+  margin-left:-5px;
+  padding:5px;
+  height: 255px !important;
+  border: 0.1px dotted  rgb(106, 133, 139) !important
+
+}
+.col-md-4 .border img {
+  height: 245px !important
+}
+.col-md-6 a:hover p{
+  border-bottom: 2px solid red
+}
+.col-md-6 a img {
+ height: 400px !important;
+}
+/* Best Fes */
+#carouselExampleIntervalcenterBk .carousel-item .col-md-12{
+   display:flex;
+  justify-content:space-around;
+}
+#carouselExampleIntervalcenterBk .carousel-item .col-md-12 img{
+   height: 400px !important
+}
+.carousel-item img {
+  height: 500px !important;
+}
+@media only screen and (max-width: 320px) {
+  .carousel-item img {
+    height: 400px !important;
+
+  }
+  #carouselExampleIntervalcenterBk .carousel-item .col-md-12 {
+    height: 300px !important
+  }
+
+ .col-md-6 a img {
+  min-height: 300px !important;
+  }
+  .col-md-4 .border img {
+  height: 300px !important
+  }
+  .col-md-12 img {
+  height: 300px !important
+  }
+}
+@media only screen and (max-width: 360px) {
+  .carousel-item img {
+    height: 400px !important;
+
+  }
+  #carouselExampleIntervalcenterBk .carousel-item .col-md-12 {
+    height: 300px !important
+  }
+
+ .col-md-6 a img {
+  min-height: 300px !important;
+  }
+  .col-md-4 .border img {
+  height: 300px !important
+  }
+  .col-md-12 img {
+  height: 300px !important
+  }
+}
+@media only screen and (max-width: 375px) {
+  .carousel-item img {
+    height: 400px !important;
+
+  }
+  #carouselExampleIntervalcenterBk .carousel-item .col-md-12 {
+    height: 300px !important
+  }
+
+ .col-md-6 a img {
+  min-height: 300px !important;
+  }
+  .col-md-4 .border img {
+  height: 300px !important
+  }
+  .col-md-12 img {
+  height: 300px !important
+  }
+}
+@media only screen and (max-width: 414px) {
+  .carousel-item img {
+    height: 400px !important;
+
+  }
+  #carouselExampleIntervalcenterBk .carousel-item .col-md-12 {
+    height: 300px !important
+  }
+
+ .col-md-6 a img {
+  min-height: 300px !important;
+  }
+  .col-md-4 .border img {
+  height: 300px !important
+  }
+  .col-md-12 img {
+  height: 300px !important
+  }
+}
+@media only screen and (max-width: 411px) {
+  .carousel-item img {
+    height: 400px !important;
+
+  }
+  #carouselExampleIntervalcenterBk .carousel-item .col-md-12 {
+    height: 300px !important
+  }
+
+ .col-md-6 a img {
+  min-height: 300px !important;
+  }
+  .col-md-4 .border img {
+  height: 300px !important
+  }
+  .col-md-12 img {
+  height: 300px !important
+  }
+}
+@media only screen and (max-width: 768px) {
+  .carousel-item img {
+    height: 400px !important;
+
+  }
+  #carouselExampleIntervalcenterBk .carousel-item .col-md-12 {
+    height: 300px !important
+  }
+
+ .col-md-6 a img {
+  min-height: 300px !important;
+  }
+  .col-md-4 .border img {
+  height: 300px !important
+  }
+  .col-md-12 img {
+  height: 300px !important
+  }
+}
+/* @media only screen and (max-width: 768px) {
+  .carousel-item img {
+    height: 400px !important;
+
+  }
+  #carouselExampleIntervalcenterBk .carousel-item .col-md-12 {
+    height: 300px !important
+  }
+
+ .col-md-6 a img {
+  min-height: 300px !important;
+  }
+  .col-md-4 .border img {
+  height: 300px !important
+  }
+  .col-md-12 img {
+  height: 300px !important
+  }
+} */

@@ -1,0 +1,44 @@
+h1 {
+  color: red;
+  font-weight: bold;
+}
+h3 {
+  text-align: center;
+}
+  /* Thân Web */
+
+
+.col-md-6 ul li a{
+      padding:10px;
+      margin:10px ;
+      line-height: 30px;
+      border:1px solid white;
+      border-radius: 5%;
+      color: white;
+
+    }
+.col-md-2 p{
+      text-align: center;
+    }
+
+.col-md-6 {
+  border-right:1px solid white
+}
+.btn a {
+  color: green
+}
+.btn a:hover {
+  color: white
+}
+iframe:hover {
+  border: 1px solid rgb(40, 167, 212) !important;
+}
+ul li img {
+  height: 200px !important;
+}
+.col-md-8 img {
+  height: 500px !important
+}
+.rom img{
+  height: 500px;
+}
